@@ -10,6 +10,9 @@ env/
 frontend/node_modules/
 frontend/dist/
 
+# Cached Databricks data
+backend/data/
+
 # Environment
 .env
 
